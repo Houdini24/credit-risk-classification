@@ -1,6 +1,6 @@
 Module 20 Report
 
-## Credit Risk Analysis
+## Credit Risk Analysis Overview
 
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
@@ -16,8 +16,6 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 * Machine Learning Model 1:
   * Description of Model 1 Accuracy, Precision, and Recall scores.
-
-
 
 * Machine Learning Model 2:
   * Description of Model 2 Accuracy, Precision, and Recall scores.
