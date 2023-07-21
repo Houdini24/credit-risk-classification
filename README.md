@@ -2,8 +2,6 @@ Module 20 Report
 
 ## Credit Risk Analysis Overview
 
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
-
 * Explain the purpose of the analysis.
 * Explain what financial information the data was on, and what you needed to predict.
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
